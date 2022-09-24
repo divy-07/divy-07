@@ -4,12 +4,12 @@
 <br>
 
 - 🔭 I’m currently working with [UBC Thunderbots](https://github.com/UBC-Thunderbots/Software)
-- 🌱 I’m currently learning **Web development.**
+- 🌱 I’m currently learning **algorithms and optimizations.**
 - 👯 I’m looking to collaborate on **my new games.**
-- 👨‍💻 Most of my projects are available at [divy07.tk](https://divy07.tk/)
-- 💬 Ask me about **PyGame, Python, Git, etc.**
+- 👨‍💻 Most of my projects are available at [divy07.com](https://divy07.com/)
+- 💬 Ask me about **PyGame, Python, Git, or anything else!**
 - 📫 Reach me at **divy07.patel@gmail.com**
-- 📄 Know about my experiences [divy07.tk/about/resume](https://divy07.tk/about/resume)
+- 📄 Know about my experiences [divy07.com/about/resume](https://divy07.com/about/assets/Resume.pdf)
 - ⚡ Fun fact: **I watch Formula 1.**
 
 <br>
