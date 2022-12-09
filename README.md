@@ -4,7 +4,7 @@
 <br>
 
 - 🔭 I’m currently working with [UBC Thunderbots](https://github.com/UBC-Thunderbots/Software)
-- 🌱 I’m currently learning **algorithms and optimizations.**
+- 🌱 I’m currently working on my [chess engine](https://github.com/divy-07/chess-engine).
 - 👯 I’m looking to collaborate on **new cool projects.**
 - 👨‍💻 Most of my projects are available at [divy07.com](https://divy07.com/)
 - 💬 Ask me about **me and my projects.**
