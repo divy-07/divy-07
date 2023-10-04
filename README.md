@@ -7,7 +7,6 @@
 <h3 align="center">An engineering student passionate about software systems</h3>
 <br>
 
-- 🔭 I’m currently working with [UBC Thunderbots](https://github.com/UBC-Thunderbots/Software)
 - 📄 Know about my experiences [divy07.com](https://divy07.com)
 
 <br>
