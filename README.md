@@ -1,5 +1,5 @@
 <h2>👋 Hi, I'm Divy Patel</h2>
-<h3>50% problem solving, 50% coffee</h3>
+<h3>100% intuition, 0% hard work</h3>
 
 - 🎓 UBC Computer Engineering
 - 🌍 Vancouver, Canada
